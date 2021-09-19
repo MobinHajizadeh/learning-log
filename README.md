@@ -1,2 +1,0 @@
-# Learning-Log
-django & bootstrap
